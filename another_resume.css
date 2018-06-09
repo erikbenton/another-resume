@@ -31,3 +31,12 @@ section p, ul li, h3 {
 	margin-right: 25%;
 	/*text-align: center;*/
 }
+
+/* Photos */
+
+#face-photo {
+	display: block;
+	width: 15%;
+	margin-left: auto;
+	margin-right: auto;
+}
