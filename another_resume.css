@@ -1,4 +1,9 @@
 
+/* Body */
+body {
+	background-color: #EAEAEA;
+}
+
 /* Navbar stuff */
 #navbar {
 	position: fixed;
