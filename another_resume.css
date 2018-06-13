@@ -48,3 +48,21 @@ section p, ul li, h3 {
 	margin-left: auto;
 	margin-right: auto;
 }
+
+/* Projects */
+#work-projects-grid {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  grid-gap: 10px;
+}
+
+.projects-grid {
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.projects-grid > div {
+  background-color: #8ca0ff;
+  width: 100%;
+  justify-self: center;
+}
