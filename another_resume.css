@@ -34,7 +34,7 @@ h2 {
 
 /* Section */
 
-section p, ul li, h3 {
+section p, ul li, h3, #social-contacts {
 	margin-left: 25%;
 	margin-right: 25%;
 	/*text-align: center;*/
