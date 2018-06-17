@@ -34,7 +34,7 @@ h2 {
 
 /* Section */
 
-section p, ul li, h3, #social-contacts {
+section p, ul li, h3, #social-contacts, input {
 	margin-left: 25%;
 	margin-right: 25%;
 	/*text-align: center;*/
@@ -65,4 +65,11 @@ section p, ul li, h3, #social-contacts {
   background-color: #8ca0ff;
   width: 100%;
   justify-self: center;
+}
+
+/* Contact */
+
+input[type=textarea] {
+	width: 25%;
+	height: 150px;
 }
