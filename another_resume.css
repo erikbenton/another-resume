@@ -99,10 +99,14 @@ input[type=textarea] {
 	height: 150px;
 }
 
+#social-contacts {
+	display: block;
+}
+
 .contacts-grid {
 	display: grid;
-  grid-template-columns: 50% 50%;
-  grid-gap: 10px;
-  text-align: center;
-  height: 25px;
+  	grid-template-columns: 50% 50%;
+	grid-gap: 10px;
+	text-align: center;
+  	height: 25px;
 }
