@@ -49,7 +49,7 @@ section {
 
 a .social-contact-icon {
 	display: block;
-	width: 25%;
+	/* width: 25%; */
 }
 
 /* Photos */
@@ -99,9 +99,15 @@ input[type=text] {
 	display: block;
 }
 
-.social-contact-icon {
-	width: 100%;
-	height: 50%;
+#github-icon {
+	width: 60px;
+	height: 60px;
+	margin: auto auto;
+}
+
+#linkedin-icon {
+	width: 200px;
+	height: 60px;
 	margin: auto auto;
 }
 
